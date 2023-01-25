@@ -1,0 +1,53 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="CartoonNetworkEast.us" status="timeout",Cartoon Network
+https://tve-live-lln.warnermediacdn.com/hls/live/2023167/tooneast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TBSEast.us" status="timeout",TBS
+https://tve-live-lln.warnermediacdn.com/hls/live/2023172/tbseast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="TNTEast.us" status="timeout",TNT
+https://tve-live-lln.warnermediacdn.com/hls/live/2023168/tnteast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="truTVEast.us" status="timeout",Tru-Tv
+https://tve-live-lln.warnermediacdn.com/hls/live/2023176/trueast/slate/VIDEO_0_3564000.m3u8
+
+#EXTINF:-1 tvg-id="AMCEast.us" status="timeout",AMC
+https://bcovlive-a.akamaihd.net/b3ed62003de946c896f4f541b908376e/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BBCAmericaEast.us" status="timeout",BBC America
+https://bcovlive-a.akamaihd.net/c9bf201b06694453bb29282f97191f58/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="IFCEast.us" status="timeout",IFC
+https://bcovlive-a.akamaihd.net/045bd3b615254da880c3db79b2e42fd0/us-east-1/6240731308001/playlist.m3u8
+
+#EXTINF:-1 tvg-id="TCMEast.us" status="timeout",TCM
+https://tve-live-lln.warnermediacdn.com/hls/live/2023186/tcmeast/noslate/VIDEO_1_5128000.m3u8
+
+#EXTINF:-1 tvg-id="" status="timeout",Music Choice
+http://173.208.212.186/MusicChoice/generate.php?id=ALTERNATIVE&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=BRITS-HITS&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=DANCE-EDM&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=HIP-HOP-AND-RANDB&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=HIT-LIST&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=INDIE&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=KIDZ-ONLY&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=METAL&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=MEXICANA&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=MUSIC-CHOICE-PLAY&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=MUSICA-URBANA&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=POP-AND-COUNTRY&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=POP-HITS&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=POP-LATINO&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=RANDB-SOUL&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=RAP&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=RAP-2K&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=ROCK&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=TEEN-BEATS&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=THROWBACK-JAMZ&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=TODAYS-COUNTRY&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=TODDLER-TUNES&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=TROPICALES&source=1
+http://173.208.212.186/MusicChoice/generate.php?id=Y2K&source=1
+
+
